@@ -1,0 +1,23 @@
+{
+  "name": "luxon-relative-time-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GatoVuelta/SussyHackatonProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GatoVuelta/SussyHackatonProject/issues"
+  },
+  "homepage": "https://github.com/GatoVuelta/SussyHackatonProject#readme",
+  "dependencies": {
+    "luxon": "^3.0.4"
+  }
+}
