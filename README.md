@@ -101,4 +101,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Luxon](https://moment.github.io/luxon/) for being such a great library.
 - [Documatic](https://www.documatic.com/) for hosting this hackathon.
 
+`*` This package is not yet published on npm, but it will be soon, hopefully.
 
