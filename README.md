@@ -25,6 +25,22 @@ date.plus({ days: 8 }).toRelativeCalendarAdvanced("The party will be {{[rpf]wd}}
 
 #### ...in no time!
 
+## Table of contents
+- [Installation *](#installation)
+- [Features](#features)
+- [Syntax](#syntax)
+  - [Parameters](#parameters)
+  - [Format string](#format-string)
+    - [Tokens](#tokens)
+      - [Prefixes](#prefixes)
+      - [Values](#values)
+      - [Filters](#filters)
+      - [Special tokens](#special-tokens)
+- [Examples](#examples)
+- [License](#license)
+- [Inspiration](#inspiration)
+- [Acknowledgments](#acknowledgments)
+
 ## Installation *
 ```bash
 npm i luxon-advanced-relative-calendar
@@ -101,5 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Luxon](https://moment.github.io/luxon/) for being such a great library.
 - [Documatic](https://www.documatic.com/) for hosting this hackathon.
 
-`*` This package is not yet published on npm, but it will be soon, hopefully.
+`*` This package is not yet published on npm, but it will be soon, hopefully
+
 
