@@ -1,4 +1,4 @@
-## <center><img src="https://cdn.discordapp.com/icons/923915766674366474/0776b26799547884a647b65d4560f008.png?size=64" style="margin-bottom: -23px"></img>[Documatic](https://www.documatic.com/) Hackathon project submission</center>
+# <center><img src="https://cdn.discordapp.com/icons/923915766674366474/0776b26799547884a647b65d4560f008.png?size=32" style="margin-bottom: -23px"></img>[Documatic](https://www.documatic.com/) Hackathon project submission</center>
 
 # Advanced Relative Calendar - A luxon utility
 #### aka SussyHackatonProject
