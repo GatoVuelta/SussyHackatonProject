@@ -9,7 +9,7 @@ Not sitting next to each other? No problem. Ask Documatic questions of your code
 
 Our Visual studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic
 
-<img src="https://cdn.discordapp.com/attachments/926110059782615071/1037404343470661713/Documatic_sh6hrz.gif" style="margin-bottom: 25px"></img>
+![Documatic_sh6hrz](https://user-images.githubusercontent.com/79285823/201548555-6733799f-f42b-4785-a25d-076d2963264a.gif)
 
 # Advanced Relative Calendar - A luxon utility
 #### aka SussyHackatonProject
