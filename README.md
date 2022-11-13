@@ -1,5 +1,16 @@
 # <center><img src="https://cdn.discordapp.com/icons/923915766674366474/0776b26799547884a647b65d4560f008.png?size=32" style="margin-bottom: -23px"></img>[Documatic](https://www.documatic.com/) Hackathon project submission</center>
 
+Documatic is a search engine for your codebase; Ask documatic a question and find relevant code snippets and insights in seconds.
+
+https://www.documatic.com/
+Documatic acts as a search engine for your codebase; once you describe what you're looking for, Documatic pulls up related code or documentation making it easier to find what you're looking for in seconds!
+
+Not sitting next to each other? No problem. Ask Documatic questions of your codebase to learn and understand your code in seconds. Documatic is the team member you wish you had
+
+Our Visual studio Code extension: https://marketplace.visualstudio.com/items?itemName=Documatic.documatic
+
+<img src="https://cdn.discordapp.com/attachments/926110059782615071/1037404343470661713/Documatic_sh6hrz.gif" style="margin-bottom: 25px"></img>
+
 # Advanced Relative Calendar - A luxon utility
 #### aka SussyHackatonProject
 
